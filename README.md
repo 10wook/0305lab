@@ -1,2 +1,1 @@
 HELLO WORLD
-안녕 세상아
